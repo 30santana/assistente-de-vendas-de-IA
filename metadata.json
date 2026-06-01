@@ -1,0 +1,6 @@
+{
+  "name": "Gamer Store Sales Assistant",
+  "description": "Chatbot de assistente de vendas estruturado para calibrar ofertas gamer, sugerir cross-sell e gerar mensagens prontas para WhatsApp seguindo o formato A-F.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
