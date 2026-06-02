@@ -4,7 +4,7 @@
 
 **Gamerflow** é um Assistente de vendas de loja gamer com IA desenvolvido como parte do desafio do curso de IA da DIO, utilizando a abordagem de **Vibe Coding** no Google AI Studio.
 
-A proposta do assistente é ajudar um vendedor humano a realizar suas vendas em uma loja gamer, identificando de maneira simples o que o cliente deseja comprar tocando direto na sua dor e necessidade de produto, de uma forma bem obejtiva e direta ao ponto.
+A proposta do assistente é ajudar um vendedor humano a realizar suas vendas em uma loja gamer, identificando de maneira simples o que o cliente deseja comprar tocando diretamente na sua dor e necessidade de produto, de uma forma bem obejtiva e direta ao ponto.
 
 ## Funcionalidades Implementadas (validadas em teste)
 
